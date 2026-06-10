@@ -6,6 +6,7 @@ This repository contains AWS Standard Operating Procedures (SOPs) created during
 
 - EC2 Instance Creation
 - S3 Bucket Management
+- Relational DataBase System RDS 
 
 ## Upcoming SOPs
 
@@ -15,7 +16,7 @@ This repository contains AWS Standard Operating Procedures (SOPs) created during
 - CloudFront
 - Load Balancer
 - Auto Scaling
-- RDS
+
 
 ## Author
 
