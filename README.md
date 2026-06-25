@@ -1,4 +1,9 @@
+
 # AWS SOPs ☁️
+
+<p align="center">
+  <img src="./assets/aws-sops-banner.png" alt="AWS SOPs Banner" width="100%">
+</p>
 
 [![AWS](https://img.shields.io/badge/AWS-Learning-orange)](https://aws.amazon.com/)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-blue)
@@ -44,6 +49,14 @@ This repository serves as a personal cloud knowledge base containing step-by-ste
 * Connectivity Setup
 * Storage and Monitoring Configuration
 
+### 📊 Amazon CloudWatch
+
+* CloudWatch Metrics
+* CloudWatch Logs
+* CloudWatch Alarms
+* CloudWatch Dashboards
+* Monitoring Best Practices
+
 ---
 
 ## 🚀 Upcoming SOPs
@@ -54,7 +67,6 @@ This repository serves as a personal cloud knowledge base containing step-by-ste
 * CloudFront
 * Elastic Load Balancer (ELB)
 * Auto Scaling
-* CloudWatch
 * AWS Lambda
 * ECS
 * EKS
@@ -75,25 +87,24 @@ This repository serves as a personal cloud knowledge base containing step-by-ste
 
 ## 📂 Repository Structure
 
+```text
 AWS-SOPs/
-
+│
 ├── assets/
-
-│ └── aws-sops-banner.png
-
+│   └── aws-sops-banner.png
+│
 ├── EC2/
-
-│ └── EC2-SOP.docx
-
+│   ├── EC2-SOP.docx
+│   └── CloudWatch-SOP.docx
+│
 ├── S3/
-
-│ └── S3-SOP.docx
-
+│   └── S3-SOP.docx
+│
 ├── RDS/
-
-│ └── RDS-SOP.docx
-
+│   └── RDS-SOP.docx
+│
 └── README.md
+```
 
 ---
 
@@ -123,10 +134,11 @@ Currently learning:
 * Networking
 * DevOps
 
-GitHub: https://github.com/Tarang2604
+**GitHub:** https://github.com/Tarang2604
 
 ---
 
 ## ⭐ Support
 
-If you find this repository useful, feel free to star it and share feedback or suggestions for improvement.
+If you find this repository useful, feel free to ⭐ star the repository and share your feedback or suggestions for improvement.
+
