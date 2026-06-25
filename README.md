@@ -5,56 +5,66 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Tarang2604/AWS-SOPs)
 
-A collection of AWS Standard Operating Procedures (SOPs) created during my cloud learning journey.
 
-This repository serves as a personal cloud knowledge base containing step-by-step implementation guides, screenshots, configurations, and revision notes for AWS services.
+A collection of **AWS Standard Operating Procedures (SOPs)** documenting hands-on implementations, configurations, troubleshooting steps, and best practices across core AWS services.
 
----
-
-## 🎯 Repository Objectives
-
-* Document AWS implementations in a structured format
-* Build a personal cloud reference library
-* Create revision material for interviews and certifications
-* Share practical AWS learning resources with the community
-* Develop documentation and troubleshooting skills
+This repository serves as my personal cloud documentation and interview preparation resource while learning AWS and DevOps.
 
 ---
 
-## 📚 Available SOPs
+## Overview
 
-### 🖥️ Amazon EC2
+**Purpose**
+
+* Document practical AWS implementations.
+* Build a structured cloud knowledge base.
+* Improve technical documentation skills.
+* Prepare for cloud interviews and certifications.
+* Share learning resources with the community.
+
+---
+
+## AWS Services Covered
+
+### Amazon EC2
 
 * EC2 Instance Creation
 * EBS Volumes
 * EBS Snapshots
-* Basic Configuration and Management
+* Instance Management
 
-### 📦 Amazon S3
+### Amazon S3
 
 * Bucket Creation
 * Object Management
 * Storage Configuration
-* Access Management
+* Access Control
 
-### 🗄️ Amazon RDS
+### Amazon RDS
 
 * Database Creation
 * Instance Configuration
-* Connectivity Setup
-* Storage and Monitoring Configuration
+* Connectivity
+* Monitoring
+
+### Amazon CloudWatch
+
+* Metrics
+* Logs
+* Alarms
+* Dashboards
+* Monitoring Best Practices
 
 ---
 
-## 🚀 Upcoming SOPs
+## Upcoming SOPs
 
-* IAM (Identity and Access Management)
-* VPC (Virtual Private Cloud)
+* IAM
+* VPC
 * Route 53
 * CloudFront
 * Elastic Load Balancer (ELB)
 * Auto Scaling
-* CloudWatch
 * AWS Lambda
 * ECS
 * EKS
@@ -62,71 +72,73 @@ This repository serves as a personal cloud knowledge base containing step-by-ste
 
 ---
 
-## 🛠️ Technologies Covered
+## Skills Demonstrated
 
-* Amazon Web Services (AWS)
-* Linux
-* Networking Fundamentals
-* Cloud Computing Concepts
+* AWS Cloud Services
+* Infrastructure Management
+* Cloud Monitoring
+* Storage Management
+* Database Administration
+* Linux Fundamentals
+* Networking Basics
 * Git & GitHub
-* DevOps Fundamentals
+* Documentation
+* Troubleshooting
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
+```text
 AWS-SOPs/
-
+│
 ├── assets/
-
-│ └── aws-sops-banner.png
-
+│   └── aws-sops-banner.png
+│
 ├── EC2/
-
-│ └── EC2-SOP.docx
-
+│   ├── EC2-SOP.docx
+│   └── CloudWatch-SOP.docx
+│
 ├── S3/
-
-│ └── S3-SOP.docx
-
+│   └── S3-SOP.docx
+│
 ├── RDS/
-
-│ └── RDS-SOP.docx
-
+│   └── RDS-SOP.docx
+│
 └── README.md
+```
 
 ---
 
-## 📈 Learning Philosophy
+## Learning Approach
 
-I believe the best way to learn cloud technologies is to:
+This repository follows a simple workflow:
 
-1. Build
-2. Document
-3. Revise
-4. Share
+**Learn → Implement → Document → Revise → Share**
 
-Every SOP in this repository is based on hands-on implementation and is designed to be useful for future reference, interview preparation, and continuous learning.
+Each SOP is created after hands-on practice and includes clear implementation steps, screenshots, and notes for future reference.
 
 ---
 
-## 👨‍💻 Author
+## About Me
 
 **Tarang Upadhyay**
 
 Aspiring Cloud & DevOps Engineer
 
-Currently learning:
+**Currently Learning**
 
 * AWS
 * Linux
 * Networking
 * DevOps
 
-GitHub: https://github.com/Tarang2604
+**GitHub:** https://github.com/Tarang2604
 
 ---
 
-## ⭐ Support
+## Support
 
-If you find this repository useful, feel free to star it and share feedback or suggestions for improvement.
+If you found this repository useful, consider giving it a ⭐ and sharing your suggestions or feedback.
+
+Thank you for visiting!
